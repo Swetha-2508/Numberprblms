@@ -1,3 +1,4 @@
+import java.lang.Math;
 public class randomrange {
     public static void main(String args[])
     {
