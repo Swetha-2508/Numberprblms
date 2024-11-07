@@ -1,5 +1,5 @@
 import java.lang.Math;
-public class randomrange {
+public class Randomrange {
     public static void main(String args[])
     {
         int minbound=10;
