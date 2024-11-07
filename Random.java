@@ -1,5 +1,5 @@
 import java.lang.Math;  
-public class random
+public class Random
 {   
 public static void main(String args[])   
 {     
