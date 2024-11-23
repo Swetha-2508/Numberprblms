@@ -12,7 +12,7 @@ class Primenumber
             System.out.println(num+ " is not a prime number");
         }
         else{
-            for(int i=2;i<=a;i++)
+            for(int i=2;i<=b;i++)
             {
                 if(num%i==0)
                 {
