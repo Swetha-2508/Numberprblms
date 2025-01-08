@@ -1,4 +1,4 @@
-public class prime_1to100 {
+public class Prime_1to100 {
     public static void main(String args[])
     {
         for(int i=2;i<=100;i++)
