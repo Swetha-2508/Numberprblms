@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class decimaltobinary
+class Decimaltobinary
 {
     public static void main(String args[])
     {
